@@ -1,16 +1,14 @@
-### Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rekakurniawan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+  <img src="https://github-readme-stats.vercel.app/api?username=rekakurniawan&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+</picture>
 
-<!--
-**rekakurniawan/rekakurniawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rekakurniawan&layout=compact&theme=dark&role=OWNER,ORGANIZATION_MEMBER&langs_count=10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekakurniawan&layout=compact&role=OWNER,ORGANIZATION_MEMBER&langs_count=10">
+</picture>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=rekakurniawan&layout=compact&theme=dark&hide=ObjectiveC,Objective-C,Text,Gitignore%20File,Properties">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rekakurniawan&layout=compact&hide=ObjectiveC,Objective-C,Text,Gitignore%20File,Properties">
+</picture>
